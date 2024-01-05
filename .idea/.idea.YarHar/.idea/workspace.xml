@@ -9,8 +9,13 @@
   <component name="ChangeListManager">
     <list default="true" id="eb7a659c-caf3-41f1-878d-27dd474b84d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7R/JYJRTBG1H6XSF0C5GGV60K.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YarHar.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/YarHar.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/BP_AbilityManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/BP_AbilityManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_BaseSkeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_BaseSkeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_GameManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_GameManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FPSCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FPSCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_WeaponFire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_WeaponFire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MainMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MainMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NS/EDW0HT94AWZQA2ZVGVF4PE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NS/EDW0HT94AWZQA2ZVGVF4PE.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +213,7 @@
       <workItem from="1704340639258" duration="1343000" />
       <workItem from="1704342126762" duration="962000" />
       <workItem from="1704410850192" duration="1922000" />
-      <workItem from="1704413169374" duration="7679000" />
+      <workItem from="1704413169374" duration="8460000" />
     </task>
     <servers />
   </component>
